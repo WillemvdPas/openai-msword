@@ -1,0 +1,7 @@
+{
+	"apikey": "enter your api-key",
+	"qa-url": "https://api.openai.com/v1/completions",
+	"img-url":"https://api.openai.com/v1/images/generations",
+	"qa-model" : "text-davinci-003"
+}
+
